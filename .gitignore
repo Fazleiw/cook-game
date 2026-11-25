@@ -1,0 +1,7 @@
+node_modules/
+out/
+outA/
+outB/
+*.tar.gz
+*.jsonl
+*.err
